@@ -1,9 +1,6 @@
 # Calorie Planner
 
-Author: YOUR_FULL_NAME  
-Date: 2025-09-19
-
-Live demo (Render): https://<your-render-url-here>
+Author: Aditya Dwivedi
 
 ## What it does
 - Calculates BMR, maintenance and target calories.
